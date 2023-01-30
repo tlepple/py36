@@ -1,6 +1,6 @@
 # py36
 
-#  Install Python3.6
+#  Install Python3.6 - This will automate the build and install from source.
 
 ---
 
